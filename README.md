@@ -54,7 +54,7 @@ Create your first repository from this template.  You can do so by looking for t
 When you click this button, you will be presented with a page like this, where you will give your new repository its own name (if you wish) as well as where you can make it private or public. Please make it public so I can view it later.  
 ![Create from Template](fromTemplate.png)
 
-Now you will be adding your own file to your repo.  Look for the "+" sign near the green CODE button.  This is where you can create a new file.  We will need to name it and when we are done we will also need to Commit (save it).  
+Now you will be adding your own file to your repo.  Look for the "ADD" button near the green CODE button.  This is where you can create a new file.  We will need to name it and when we are done we will also need to Commit (save it).  
 ![Create File](editFile.png)  
 
 1. Find a selection of raw text from the Internet.  This could be a children's story (Winne the Pooh), some poetry, song lyrics, game instructions...the possibilities are endless!
